@@ -1,0 +1,28 @@
+/*body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+}*/
+
+body{
+    background-color: bisque;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: 3px solid pink;
+    border-top: 3px solid pink;;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+    margin: 5px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
